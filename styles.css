@@ -11,9 +11,7 @@ body{
       display:flex;
       flex-direction:column;
       background-color:bisque;
-      text-align:left;
-  align-items:center;
-    }
+}
 /*header styles*/
 header{
        display:flex;
