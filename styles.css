@@ -11,8 +11,9 @@ body{
       display:flex;
       flex-direction:column;
       background-color:bisque;
-      text-align:justify;
+      text-align:left;
     }
+  
 
 /*header styles*/
 header{
