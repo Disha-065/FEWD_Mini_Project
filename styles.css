@@ -11,8 +11,11 @@ body{
       display:flex;
       flex-direction:column;
       background-color:bisque;
-      text-align:left;
+   
     }
+p.about{
+  text-align:justify;
+}
   
 
 /*header styles*/
